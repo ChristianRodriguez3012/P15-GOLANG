@@ -1,4 +1,5 @@
-//EJERCICIO 3:
+//EJERCICIO 3:Desarrolle un programa en Goland que solicite un número por teclado y luego imprima por
+//pantalla todos los números que pueden dividir a dicho número (4 puntos).
 
 package main
 
